@@ -1,1 +1,1 @@
-# mrng-g.-user-.github.io
+# mrng-g.github.io
